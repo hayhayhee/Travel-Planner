@@ -1,2 +1,1 @@
-# Travel-Planner
-Travel Planner â€” a project for planning trips, routes, hotels and budgets.
+ÿþ
