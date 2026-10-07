@@ -1,1 +1,1 @@
-console.log("Travel Planner initialized");
+console.log("Travel Planner interface initialized");
